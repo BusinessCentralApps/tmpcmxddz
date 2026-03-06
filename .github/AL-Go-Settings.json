@@ -5,8 +5,8 @@
   "artifact": "////nextmajor",
   "templateUrl": "https://github.com/businesscentralapps/tmpbX5QHc-PTE@main",
   "alDoc": {
-    "ContinuousDeployment": true,
-    "deployToGitHubPages": false
+    "deployToGitHubPages": true,
+    "ContinuousDeployment": false
   },
   "MicrosoftTelemetryConnectionString": "",
   "type": "PTE"
